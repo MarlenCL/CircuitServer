@@ -1,0 +1,17 @@
+{
+  "name": "nombre-proyecto",
+  "version": "0.1.0",
+  "main": "index.js",
+  "devDependencies": {
+    "electron-prebuilt": "^1.4.13",
+    "express": "^4.14.0",
+    "express-session": "^1.14.1",
+    "randomstring": "^1.1.5",
+    "request": "^2.81.0",
+    "electron": "^4.0.4",
+    "rxjs": "^6.4.0"
+  },
+  "scripts": {
+    "start": "electron ."
+  }
+}
